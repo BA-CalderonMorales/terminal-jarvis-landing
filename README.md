@@ -19,6 +19,15 @@
 
 ---
 
+## Table of Contents
+
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Development](#development)
+- [Code Quality](#code-quality)
+- [Project Structure](#project-structure)
+- [License](#license)
+
 ## Features
 
 - **Responsive Design** - Optimized for mobile and desktop
