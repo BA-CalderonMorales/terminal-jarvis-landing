@@ -67,3 +67,5 @@ COMPONENT-GUIDE.md
 *.swp
 *.orig
 *.swo
+# Temporary files folder - never commit
+tmp/
