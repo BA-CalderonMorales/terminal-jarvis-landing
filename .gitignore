@@ -69,3 +69,4 @@ COMPONENT-GUIDE.md
 *.swo
 # Temporary files folder - never commit
 tmp/
+scripts/prune-branches.sh
